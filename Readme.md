@@ -5,7 +5,6 @@
   [![build status][travis-image]][travis-url]
   [![Test coverage][coveralls-image]][coveralls-url]
 
-
   Expressive HTTP middleware for node.js to make web applications and APIs more enjoyable to write. Koa's middleware stack flows in a stack-like manner, allowing you to perform actions downstream then filter and manipulate the response upstream. Koa's use of generators also greatly increases the readability and robustness of your application.
 
   Only methods that are common to nearly all HTTP servers are integrated directly into Koa's small ~550 SLOC codebase. This
